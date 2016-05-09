@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQL_Conn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=JONATHAN_S6520;Initial Catalog=Medicare;Integrated Security=True;Pooling=False</Value>
+    </Setting>
+    <Setting Name="Inbox_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\jonathan.CLONEFREEMEN\Desktop\ANGKASA BATCH DOWNLOAD\Test\Inbox</Value>
+    </Setting>
+    <Setting Name="Outbox_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\jonathan.CLONEFREEMEN\Desktop\ANGKASA BATCH DOWNLOAD\Test\Outbox</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

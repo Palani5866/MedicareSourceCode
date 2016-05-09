@@ -1,0 +1,1628 @@
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\Debug\Medicare.exe.config
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\Debug\Medicare.exe.manifest
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\Debug\Medicare.application
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\Debug\Medicare.exe
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\Debug\Medicare.pdb
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\Debug\Medicare.xml
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.vbproj.ResolveComReference.cache
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.acknowledgementLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.AddLabelPrint.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Angkasa60Percent.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.AngkasaCancellation.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Angkasa_Payment_Letter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.acknowledgementLetterO.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.InfoLetterN.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.PD.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.InfoLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.IncompleteBorang.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.PI.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rAgent.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.sunderwritingLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.pProposer.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.OverAged.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.RejectPSExists.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.RejectMemExists.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.RejectLetter60DuePA.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.UW.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.YearlyACLetterO.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.NP.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.defermentLetterO.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.YearlyPlanLetter_ProposerO.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.RejectDue60Per.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.No_Deduction_Frm_AngkasaPA.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Due_to_60_PercentPA.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.pDExceed60Percent1.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.pDExceed60Percent.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.No_Deduction_Frm_Angkasa.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Due_to_60_Percent.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.NPCC.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.defermentLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.NPL.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rejectLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.RenewalUW.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.RenewalNotice.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Retired_Letter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Change2Yearly.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.underwritingLetterP1.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.underwritingLetterP2.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.YearlyACLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.YearlyPlanLetter_Proposer.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Acknowledgement.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.AddPrintLabel.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Add_Dependant_New.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.afPolicy.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Agent.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Agent_Commission.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.aMember.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.ccPremiumSummaryReport.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fBorang2_79.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dgvMemberDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fbYearlyRenewal.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fClientID.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fEndorsSubmission.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fInDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fInsurarPremiumPayment.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fRevisePremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.frmRMnthlyLapseDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.frmShortFallfollowup.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fSentSMS.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fXcessPayment.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fYearlyPoliciesDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_PolicyNo_Template_Import.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Loading.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fCS_New.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fNonPayment.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fPremiumProcess.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Member.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.NonPaymentPlanCodes.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.OtherPlanDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fSMS.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.PremiumSummaryReport.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.PremiumSummaryReportDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.r13M.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rCancelledPolicy.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.RecoverShortFall.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rPending.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rPremiumD.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Dependant.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_Cancellation.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_DependantDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_FileNo.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_L2_Plan_Code.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgBorang2_79.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgConversion_Proposer_Status.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PersonalDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PolicyNo.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PostalAddress.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_Reinstate.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_RequestedAmount.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgPremium_Renewal.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgUser_Change_Password.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Endorsement_Report.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Exclusion_Clause.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.findProduct_Code.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fPolicy.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fPremiumIncrease.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fReports.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fsMail.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fSummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fSummaryDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fUploadCID.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fUserAccess.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fvCS.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fvDependents.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.fVerifiedProposers.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_Address_Template_Export.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_Address_Template_Import.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_PolicyNo_Template_Export.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdLog_Daily_Activities.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdLog_Login_Logoff.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.frmMember_v2.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdBorang2_79.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Monthly.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly_Renewal.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdReport_Premium_Not_ReceivedFrAgency_Monthly.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdReport_Premium_Payment2Insurer_13months.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdReport_Recovered_ShortFalls_0599.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdReport_Submission2Insurer_Yearly.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdReport_Submission2Insurer_Yearly_Renewal.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdSubmitted_Proposers.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdTemplate_Export.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.ImportBlank.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Insurer.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Insurer_Contact_Details.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.New_Dependent_Add.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.New_Proposer.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Nominee.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Plan_Type.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.pLetter.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.PremiumDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.PremiumTable.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Premium_Type.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.PrintLetters.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.PrintPremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Product_Plan_Type.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Product_Setup.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Product_type.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Renewal_Notice.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Renewal_Yr_Submission.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rPremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rPSummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rPSummaryDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rRecoverShortFall.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rRevisedPremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rSA.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rShortFall.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rShortfallSummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rShortFallSummaryDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rYP.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rYrlySummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.rYShortfallReport.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.SearchAgent.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.searchMember.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.searchNominee.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Search_Member.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.ShartfallsAc.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Deferment.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.dlgSelectMonth.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.frmLogin.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.frmMain.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.frmSearch_Param.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdAngkasaDeduction.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdBulkUpload.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdProposer.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.grdProposer2Submit.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Resources.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Rejection.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.sSFDecision.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.SubmitToAngkasa.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.SuspentAc.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.UMD.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Underwriting.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.UPLOAD.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.UploadCID.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.UWCIMB.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.vAgent.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.vAgent_Commission.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.vCS.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.viewExclusion_Clause.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.viewLetters.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.viewRenewal_Notice.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.View_Agent_Details.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.View_Insurer_Contacts.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.vProReportbyAgent.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.vShortFalls.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.vShortfallsDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.xPolicyDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.XportBlank.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.xRenewalListing.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.xWrongEffectiveDate.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.xWrongPremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.Yearly_PlanLetter_Proposer.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.YrFollowupDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.YrFollowupSummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.vbproj.GenerateResource.Cache
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.exe.manifest
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.application
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.exe
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.xml
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\Debug\Medicare.pdb
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\x86\Debug\Medicare.exe.config
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\x86\Debug\Medicare.exe.manifest
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\x86\Debug\Medicare.application
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\x86\Debug\Medicare.exe
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\x86\Debug\Medicare.pdb
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\bin\x86\Debug\Medicare.xml
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.vbproj.ResolveComReference.cache
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.acknowledgementLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.AddLabelPrint.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Angkasa60Percent.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.AngkasaCancellation.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Angkasa_Payment_Letter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.acknowledgementLetterO.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.InfoLetterN.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.PD.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.InfoLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.IncompleteBorang.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.PI.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rAgent.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.sunderwritingLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.pProposer.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.OverAged.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.RejectPSExists.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.RejectMemExists.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.RejectLetter60DuePA.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.UW.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyACLetterO.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.NP.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.defermentLetterO.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyPlanLetter_ProposerO.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.RejectDue60Per.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.No_Deduction_Frm_AngkasaPA.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Due_to_60_PercentPA.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.pDExceed60Percent1.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.pDExceed60Percent.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.No_Deduction_Frm_Angkasa.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Due_to_60_Percent.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.NPCC.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.defermentLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.NPL.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rejectLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.RenewalUW.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.RenewalNotice.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Retired_Letter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Change2Yearly.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.underwritingLetterP1.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.underwritingLetterP2.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyACLetter.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyPlanLetter_Proposer.rpt
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Acknowledgement.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.AddPrintLabel.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Add_Dependant_New.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.afPolicy.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Agent.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Agent_Commission.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.aMember.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.ccPremiumSummaryReport.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fBorang2_79.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dgvMemberDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fbYearlyRenewal.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fClientID.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fEndorsSubmission.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fInDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fInsurarPremiumPayment.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fRevisePremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.frmRMnthlyLapseDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.frmShortFallfollowup.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fSentSMS.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fXcessPayment.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fYearlyPoliciesDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_PolicyNo_Template_Import.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Loading.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fCS_New.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fNonPayment.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fPremiumProcess.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Member.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.NonPaymentPlanCodes.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.OtherPlanDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fSMS.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumSummaryReport.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumSummaryReportDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.r13M.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rCancelledPolicy.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.RecoverShortFall.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rPending.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rPremiumD.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Dependant.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_Cancellation.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_DependantDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_FileNo.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_L2_Plan_Code.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgBorang2_79.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgConversion_Proposer_Status.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PersonalDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PolicyNo.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PostalAddress.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_Reinstate.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_RequestedAmount.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgPremium_Renewal.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgUser_Change_Password.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Endorsement_Report.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Exclusion_Clause.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.findProduct_Code.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fPolicy.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fPremiumIncrease.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fReports.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fsMail.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fSummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fSummaryDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fUploadCID.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fUserAccess.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fvCS.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fvDependents.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.fVerifiedProposers.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_Address_Template_Export.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_Address_Template_Import.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_PolicyNo_Template_Export.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdLog_Daily_Activities.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdLog_Login_Logoff.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.frmMember_v2.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdBorang2_79.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Monthly.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly_Renewal.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Premium_Not_ReceivedFrAgency_Monthly.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Premium_Payment2Insurer_13months.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Recovered_ShortFalls_0599.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Submission2Insurer_Yearly.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Submission2Insurer_Yearly_Renewal.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdSubmitted_Proposers.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdTemplate_Export.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.ImportBlank.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Insurer.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Insurer_Contact_Details.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.New_Dependent_Add.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.New_Proposer.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Nominee.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Plan_Type.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.pLetter.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumTable.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Premium_Type.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.PrintLetters.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.PrintPremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Product_Plan_Type.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Product_Setup.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Product_type.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Renewal_Notice.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Renewal_Yr_Submission.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rPremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rPSummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rPSummaryDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rRecoverShortFall.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rRevisedPremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rSA.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rShortFall.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rShortfallSummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rShortFallSummaryDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rYP.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rYrlySummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.rYShortfallReport.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.SearchAgent.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.searchMember.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.searchNominee.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Search_Member.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.ShartfallsAc.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Deferment.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.dlgSelectMonth.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.frmLogin.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.frmMain.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.frmSearch_Param.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdAngkasaDeduction.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdBulkUpload.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdProposer.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.grdProposer2Submit.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Resources.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Rejection.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.sSFDecision.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.SubmitToAngkasa.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.SuspentAc.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.UMD.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Underwriting.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.UPLOAD.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.UploadCID.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.UWCIMB.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.vAgent.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.vAgent_Commission.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.vCS.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.viewExclusion_Clause.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.viewLetters.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.viewRenewal_Notice.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.View_Agent_Details.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.View_Insurer_Contacts.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.vProReportbyAgent.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.vShortFalls.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.vShortfallsDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.xPolicyDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.XportBlank.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.xRenewalListing.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.xWrongEffectiveDate.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.xWrongPremium.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.Yearly_PlanLetter_Proposer.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.YrFollowupDetails.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.YrFollowupSummary.resources
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.vbproj.GenerateResource.Cache
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.exe.manifest
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.application
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.exe
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.xml
+D:\GITHUB\ALL BACK 05032015\New Folder\Medicare\Medicare\obj\x86\Debug\Medicare.pdb
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\Debug\Medicare.exe.config
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.exe
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.xml
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.pdb
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\Debug\Medicare.exe.manifest
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\Debug\Medicare.application
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\Debug\Medicare.exe
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\Debug\Medicare.pdb
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\Debug\Medicare.xml
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.vbproj.ResolveComReference.cache
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.acknowledgementLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.AddLabelPrint.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Angkasa60Percent.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.AngkasaCancellation.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Angkasa_Payment_Letter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.acknowledgementLetterO.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.InfoLetterN.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PD.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.InfoLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.IncompleteBorang.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PI.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rAgent.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.sunderwritingLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.pProposer.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.OverAged.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.RejectPSExists.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.RejectMemExists.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.RejectLetter60DuePA.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.UW.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.YearlyACLetterO.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.NP.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.defermentLetterO.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.YearlyPlanLetter_ProposerO.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.RejectDue60Per.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.No_Deduction_Frm_AngkasaPA.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Due_to_60_PercentPA.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.pDExceed60Percent1.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.pDExceed60Percent.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.No_Deduction_Frm_Angkasa.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Due_to_60_Percent.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.NPCC.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.defermentLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.NPL.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rejectLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.RenewalUW.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.RenewalNotice.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Retired_Letter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Change2Yearly.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.underwritingLetterP1.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.underwritingLetterP2.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.YearlyACLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.YearlyPlanLetter_Proposer.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Acknowledgement.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.AddPrintLabel.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Add_Dependant_New.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.afPolicy.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Agent.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Agent_Commission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.aMember.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.ccPremiumSummaryReport.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fBorang2_79.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dgvMemberDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fbYearlyRenewal.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fClientID.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fEndorsSubmission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fInDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fInsurarPremiumPayment.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fRevisePremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.frmRMnthlyLapseDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.frmShortFallfollowup.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fSentSMS.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fXcessPayment.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fYearlyPoliciesDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_PolicyNo_Template_Import.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Loading.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fCS_New.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fNonPayment.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fPremiumProcess.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Member.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.NonPaymentPlanCodes.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.OtherPlanDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fSMS.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PremiumSummaryReport.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PremiumSummaryReportDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.r13M.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rCancelledPolicy.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.RecoverShortFall.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rPending.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rPremiumD.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Dependant.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_Cancellation.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_DependantDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_FileNo.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_L2_Plan_Code.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgBorang2_79.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgConversion_Proposer_Status.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PersonalDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PolicyNo.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PostalAddress.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_Reinstate.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_RequestedAmount.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgPremium_Renewal.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgUser_Change_Password.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Endorsement_Report.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Exclusion_Clause.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.findProduct_Code.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fPolicy.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fPremiumIncrease.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fReports.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fsMail.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fSummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fSummaryDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fUploadCID.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fUserAccess.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fvCS.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fvDependents.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.fVerifiedProposers.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_Address_Template_Export.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_Address_Template_Import.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_PolicyNo_Template_Export.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdLog_Daily_Activities.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdLog_Login_Logoff.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.frmMember_v2.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdBorang2_79.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Monthly.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly_Renewal.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Premium_Not_ReceivedFrAgency_Monthly.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Premium_Payment2Insurer_13months.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Recovered_ShortFalls_0599.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Submission2Insurer_Yearly.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Submission2Insurer_Yearly_Renewal.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdSubmitted_Proposers.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdTemplate_Export.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.ImportBlank.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Insurer.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Insurer_Contact_Details.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.New_Dependent_Add.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.New_Proposer.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Nominee.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Plan_Type.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.pLetter.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PremiumDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PremiumTable.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Premium_Type.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PrintLetters.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PrintPremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Product_Plan_Type.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Product_Setup.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Product_type.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Renewal_Notice.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Renewal_Yr_Submission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rPremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rPSummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rPSummaryDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rRecoverShortFall.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rRevisedPremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rSA.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rShortFall.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rShortfallSummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rShortFallSummaryDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rYP.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rYrlySummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.rYShortfallReport.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.SearchAgent.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.searchMember.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.searchNominee.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Search_Member.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.ShartfallsAc.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Deferment.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.dlgSelectMonth.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.frmLogin.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.frmMain.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.frmSearch_Param.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdAngkasaDeduction.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdBulkUpload.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdProposer.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.grdProposer2Submit.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Resources.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Rejection.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.sSFDecision.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.SubmitToAngkasa.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.SuspentAc.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.UMD.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Underwriting.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.UPLOAD.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.UploadCID.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.UWCIMB.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.vAgent.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.vAgent_Commission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.vCS.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.viewExclusion_Clause.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.viewLetters.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.viewRenewal_Notice.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.View_Agent_Details.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.View_Insurer_Contacts.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.vProReportbyAgent.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.vShortFalls.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.vShortfallsDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.xPolicyDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.XportBlank.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.xRenewalListing.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.xWrongEffectiveDate.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.xWrongPremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.Yearly_PlanLetter_Proposer.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.YrFollowupDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.YrFollowupSummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.vbproj.GenerateResource.Cache
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.exe.manifest
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.application
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\x86\Debug\Medicare.exe.config
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\x86\Debug\Medicare.exe.manifest
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\x86\Debug\Medicare.application
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\x86\Debug\Medicare.exe
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\x86\Debug\Medicare.pdb
+D:\GITHUB\Source\New Source\Medicare\Medicare\bin\x86\Debug\Medicare.xml
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.vbproj.ResolveComReference.cache
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.acknowledgementLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.AddLabelPrint.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Angkasa60Percent.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.AngkasaCancellation.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Angkasa_Payment_Letter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.acknowledgementLetterO.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.InfoLetterN.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PD.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.InfoLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.IncompleteBorang.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PI.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rAgent.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.sunderwritingLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.pProposer.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.OverAged.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.RejectPSExists.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.RejectMemExists.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.RejectLetter60DuePA.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.UW.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyACLetterO.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.NP.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.defermentLetterO.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyPlanLetter_ProposerO.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.RejectDue60Per.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.No_Deduction_Frm_AngkasaPA.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Due_to_60_PercentPA.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.pDExceed60Percent1.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.pDExceed60Percent.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.No_Deduction_Frm_Angkasa.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Due_to_60_Percent.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.NPCC.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.defermentLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.NPL.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rejectLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.RenewalUW.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.RenewalNotice.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Retired_Letter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Change2Yearly.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.underwritingLetterP1.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.underwritingLetterP2.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyACLetter.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyPlanLetter_Proposer.rpt
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Acknowledgement.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.AddPrintLabel.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Add_Dependant_New.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.afPolicy.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Agent.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Agent_Commission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.aMember.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.ccPremiumSummaryReport.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fBorang2_79.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dgvMemberDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fbYearlyRenewal.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fClientID.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fEndorsSubmission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fInDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fInsurarPremiumPayment.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fRevisePremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmRMnthlyLapseDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmShortFallfollowup.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSentSMS.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fXcessPayment.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fYearlyPoliciesDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_PolicyNo_Template_Import.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Loading.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fCS_New.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fNonPayment.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPremiumProcess.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Member.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.NonPaymentPlanCodes.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.OtherPlanDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSMS.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumSummaryReport.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumSummaryReportDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.r13M.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rCancelledPolicy.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.RecoverShortFall.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPending.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPremiumD.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Dependant.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_Cancellation.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_DependantDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_FileNo.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_L2_Plan_Code.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgBorang2_79.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgConversion_Proposer_Status.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PersonalDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PolicyNo.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PostalAddress.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_Reinstate.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_RequestedAmount.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgPremium_Renewal.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgUser_Change_Password.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Endorsement_Report.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Exclusion_Clause.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.findProduct_Code.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPolicy.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPremiumIncrease.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fReports.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fsMail.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSummaryDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fUploadCID.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fUserAccess.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fvCS.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fvDependents.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fVerifiedProposers.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_Address_Template_Export.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_Address_Template_Import.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_PolicyNo_Template_Export.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdLog_Daily_Activities.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdLog_Login_Logoff.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmMember_v2.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBorang2_79.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Monthly.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly_Renewal.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Premium_Not_ReceivedFrAgency_Monthly.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Premium_Payment2Insurer_13months.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Recovered_ShortFalls_0599.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Submission2Insurer_Yearly.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Submission2Insurer_Yearly_Renewal.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdSubmitted_Proposers.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdTemplate_Export.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.ImportBlank.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Insurer.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Insurer_Contact_Details.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.New_Dependent_Add.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.New_Proposer.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Nominee.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Plan_Type.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.pLetter.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumTable.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Premium_Type.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PrintLetters.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PrintPremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Product_Plan_Type.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Product_Setup.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Product_type.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Renewal_Notice.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Renewal_Yr_Submission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPSummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPSummaryDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rRecoverShortFall.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rRevisedPremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rSA.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rShortFall.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rShortfallSummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rShortFallSummaryDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rYP.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rYrlySummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.rYShortfallReport.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.SearchAgent.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.searchMember.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.searchNominee.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Search_Member.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.ShartfallsAc.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Deferment.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgSelectMonth.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmLogin.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmMain.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmSearch_Param.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdAngkasaDeduction.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBulkUpload.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdProposer.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdProposer2Submit.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Resources.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Rejection.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.sSFDecision.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.SubmitToAngkasa.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.SuspentAc.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.UMD.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Underwriting.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.UPLOAD.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.UploadCID.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.UWCIMB.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.vAgent.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.vAgent_Commission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.vCS.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.viewExclusion_Clause.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.viewLetters.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.viewRenewal_Notice.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.View_Agent_Details.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.View_Insurer_Contacts.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.vProReportbyAgent.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.vShortFalls.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.vShortfallsDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.xPolicyDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.XportBlank.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.xRenewalListing.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.xWrongEffectiveDate.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.xWrongPremium.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.Yearly_PlanLetter_Proposer.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.YrFollowupDetails.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.YrFollowupSummary.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.vbproj.GenerateResource.Cache
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.exe.manifest
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.application
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.exe
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.xml
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.pdb
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\Debug\Medicare.PremiumIncrease.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumIncrease.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSF.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fMemberIDUP.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.gstReport.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fAgentComission.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPolicyPremiumIncrease.resources
+D:\GITHUB\Source\New Source\Medicare\Medicare\obj\x86\Debug\Medicare.AgentComSum.resources
+D:\Medicare App Source\Medicare\Medicare\bin\x86\Debug\Medicare.exe.config
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.exe
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.xml
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.pdb
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vbproj.ResolveComReference.cache
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.acknowledgementLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.AddLabelPrint.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Angkasa60Percent.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.AngkasaCancellation.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Angkasa_Payment_Letter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.acknowledgementLetterO.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.InfoLetterN.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PD.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.InfoLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.IncompleteBorang.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PI.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rAgent.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.sunderwritingLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.pProposer.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.OverAged.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.RejectPSExists.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.RejectMemExists.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.RejectLetter60DuePA.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.UW.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyACLetterO.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.NP.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.defermentLetterO.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyPlanLetter_ProposerO.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.RejectDue60Per.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.No_Deduction_Frm_AngkasaPA.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Due_to_60_PercentPA.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.pDExceed60Percent1.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.pDExceed60Percent.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.No_Deduction_Frm_Angkasa.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Due_to_60_Percent.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.NPCC.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.defermentLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.NPL.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rejectLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.RenewalUW.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.RenewalNotice.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Retired_Letter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Change2Yearly.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.underwritingLetterP1.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.underwritingLetterP2.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyACLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyPlanLetter_Proposer.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Acknowledgement.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.AddPrintLabel.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Add_Dependant_New.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.afPolicy.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Agent.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.AgentComSum.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Agent_Commission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.aMember.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.ccPremiumSummaryReport.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fAgentComission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fBorang2_79.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dgvMemberDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fbYearlyRenewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fClientID.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fEndorsSubmission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fInDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fInsurarPremiumPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fMemberIDUP.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPolicyPremiumIncrease.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fRevisePremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmRMnthlyLapseDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmShortFallfollowup.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSentSMS.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSF.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fXcessPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fYearlyPoliciesDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_PolicyNo_Template_Import.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.gstReport.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Loading.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fCS_New.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fNonPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPremiumProcess.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Member.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.NonPaymentPlanCodes.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.OtherPlanDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSMS.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumIncrease.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumSummaryReport.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumSummaryReportDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.r13M.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rCancelledPolicy.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.RecoverShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPending.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPremiumD.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Dependant.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_Cancellation.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_DependantDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_FileNo.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_L2_Plan_Code.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgBorang2_79.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgConversion_Proposer_Status.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PersonalDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PolicyNo.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PostalAddress.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_Reinstate.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_RequestedAmount.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgPremium_Renewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgUser_Change_Password.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Endorsement_Report.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Exclusion_Clause.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.findProduct_Code.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPolicy.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPremiumIncrease.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fReports.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fsMail.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSummaryDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fUploadCID.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fUserAccess.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fvCS.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fvDependents.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fVerifiedProposers.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_Address_Template_Export.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_Address_Template_Import.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_PolicyNo_Template_Export.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdLog_Daily_Activities.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdLog_Login_Logoff.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmMember_v2.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBorang2_79.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Monthly.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly_Renewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Premium_Not_ReceivedFrAgency_Monthly.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Premium_Payment2Insurer_13months.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Recovered_ShortFalls_0599.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Submission2Insurer_Yearly.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Submission2Insurer_Yearly_Renewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdSubmitted_Proposers.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdTemplate_Export.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.ImportBlank.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Insurer.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Insurer_Contact_Details.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.New_Dependent_Add.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.New_Proposer.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Nominee.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Plan_Type.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.pLetter.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumTable.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Premium_Type.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PrintLetters.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.PrintPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Product_Plan_Type.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Product_Setup.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Product_type.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Renewal_Notice.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Renewal_Yr_Submission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rPSummaryDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rRecoverShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rRevisedPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rSA.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rShortfallSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rShortFallSummaryDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rYP.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rYrlySummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rYShortfallReport.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.SearchAgent.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.searchMember.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.searchNominee.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Search_Member.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.ShartfallsAc.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Deferment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.dlgSelectMonth.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmLogin.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmMain.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmSearch_Param.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdAngkasaDeduction.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdBulkUpload.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdProposer.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.grdProposer2Submit.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Resources.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Rejection.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.sSFDecision.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.SubmitToAngkasa.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.SuspentAc.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.UMD.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Underwriting.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.UPLOAD.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.UploadCID.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.UWCIMB.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vAgent.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vAgent_Commission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vCS.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.viewExclusion_Clause.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.viewLetters.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.viewRenewal_Notice.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.View_Agent_Details.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.View_Insurer_Contacts.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vProReportbyAgent.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vShortFalls.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vShortfallsDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.xPolicyDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.XportBlank.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.xRenewalListing.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.xWrongEffectiveDate.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.xWrongPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.Yearly_PlanLetter_Proposer.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.YrFollowupDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.YrFollowupSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vbproj.GenerateResource.Cache
+D:\Medicare App Source\Medicare\Medicare\bin\x86\Debug\Medicare.exe.manifest
+D:\Medicare App Source\Medicare\Medicare\bin\x86\Debug\Medicare.application
+D:\Medicare App Source\Medicare\Medicare\bin\x86\Debug\Medicare.exe
+D:\Medicare App Source\Medicare\Medicare\bin\x86\Debug\Medicare.pdb
+D:\Medicare App Source\Medicare\Medicare\bin\x86\Debug\Medicare.xml
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.exe.manifest
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.application
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmNonPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmPendingPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmPendingPremiumTM.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.ftShortfall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.ffShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPendingCancellationListing.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmShortfallRequest.resources
+D:\Medicare App Source\Medicare\Medicare\bin\x86\Debug\itextsharp.xml
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fClientRequest.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fClientRequestSubmission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fRetirees.resources
+D:\Medicare App Source\Medicare\Medicare\bin\Debug\Medicare.exe.config
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.exe
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.xml
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.pdb
+D:\Medicare App Source\Medicare\Medicare\bin\Debug\Medicare.exe.manifest
+D:\Medicare App Source\Medicare\Medicare\bin\Debug\Medicare.application
+D:\Medicare App Source\Medicare\Medicare\bin\Debug\Medicare.exe
+D:\Medicare App Source\Medicare\Medicare\bin\Debug\Medicare.pdb
+D:\Medicare App Source\Medicare\Medicare\bin\Debug\Medicare.xml
+D:\Medicare App Source\Medicare\Medicare\bin\Debug\itextsharp.xml
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\ResolveAssemblyReference.cache
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.vbproj.ResolveComReference.cache
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.acknowledgementLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.AddLabelPrint.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Angkasa60Percent.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.AngkasaCancellation.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Angkasa_Payment_Letter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.acknowledgementLetterO.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.InfoLetterN.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PD.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.InfoLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.IncompleteBorang.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PI.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rAgent.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.sunderwritingLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.pProposer.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.OverAged.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.RejectPSExists.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.RejectMemExists.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.RejectLetter60DuePA.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.UW.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.YearlyACLetterO.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.NP.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.defermentLetterO.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.YearlyPlanLetter_ProposerO.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.RejectDue60Per.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.No_Deduction_Frm_AngkasaPA.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Due_to_60_PercentPA.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.pDExceed60Percent1.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.pDExceed60Percent.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.No_Deduction_Frm_Angkasa.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Due_to_60_Percent.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.NPCC.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.defermentLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.NPL.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rejectLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.RenewalUW.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.RenewalNotice.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Retired_Letter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Change2Yearly.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.underwritingLetterP1.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.underwritingLetterP2.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.YearlyACLetter.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.YearlyPlanLetter_Proposer.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Acknowledgement.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.AddPrintLabel.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Add_Dependant_New.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.afPolicy.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Agent.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.AgentComSum.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Agent_Commission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.aMember.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.ccPremiumSummaryReport.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fAgentComission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fBorang2_79.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dgvMemberDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fbYearlyRenewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fClientID.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fClientRequest.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fClientRequestSubmission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fEndorsSubmission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.ffShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fInDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fInsurarPremiumPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fMemberIDUP.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fPendingCancellationListing.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fPolicyPremiumIncrease.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fRetirees.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fRevisePremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmNonPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmPendingPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmPendingPremiumTM.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmRMnthlyLapseDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmShortFallfollowup.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmShortfallRequest.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fSentSMS.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fSF.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.ftShortfall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fXcessPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fYearlyPoliciesDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_PolicyNo_Template_Import.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.gstReport.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Loading.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fCS_New.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fNonPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fPremiumProcess.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Member.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.NonPaymentPlanCodes.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.OtherPlanDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fSMS.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PremiumIncrease.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PremiumSummaryReport.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PremiumSummaryReportDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.r13M.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rCancelledPolicy.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.RecoverShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rPending.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rPremiumD.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Dependant.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_Cancellation.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_DependantDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_FileNo.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_L2_Plan_Code.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgBorang2_79.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgConversion_Proposer_Status.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PersonalDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PolicyNo.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_PostalAddress.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_Reinstate.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgEndosement_RequestedAmount.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgPremium_Renewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgUser_Change_Password.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Endorsement_Report.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Exclusion_Clause.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.findProduct_Code.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fPolicy.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fPremiumIncrease.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fReports.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fsMail.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fSummaryDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fUploadCID.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fUserAccess.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fvCS.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fvDependents.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fVerifiedProposers.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_Address_Template_Export.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_Address_Template_Import.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdBLANK_PolicyNo_Template_Export.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdLog_Daily_Activities.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdLog_Login_Logoff.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmMember_v2.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdBorang2_79.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Monthly.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly_Renewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Premium_Not_ReceivedFrAgency_Monthly.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Premium_Payment2Insurer_13months.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Recovered_ShortFalls_0599.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Submission2Insurer_Yearly.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdReport_Submission2Insurer_Yearly_Renewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdSubmitted_Proposers.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdTemplate_Export.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.ImportBlank.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Insurer.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Insurer_Contact_Details.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.New_Dependent_Add.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.New_Proposer.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Nominee.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Plan_Type.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.pLetter.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PremiumDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PremiumTable.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Premium_Type.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PrintLetters.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.PrintPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Product_Plan_Type.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Product_Setup.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Product_type.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Renewal_Notice.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Renewal_Yr_Submission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rPSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rPSummaryDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rRecoverShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rRevisedPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rSA.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rShortfallSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rShortFallSummaryDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rYP.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rYrlySummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rYShortfallReport.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.SearchAgent.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.searchMember.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.searchNominee.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Search_Member.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.ShartfallsAc.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Deferment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.dlgSelectMonth.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmLogin.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmMain.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmSearch_Param.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdAngkasaDeduction.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdBulkUpload.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdProposer.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.grdProposer2Submit.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Resources.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Rejection.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.sSFDecision.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.SubmitToAngkasa.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.SuspentAc.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.UMD.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Underwriting.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.UPLOAD.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.UploadCID.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.UWCIMB.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.vAgent.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.vAgent_Commission.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.vCS.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.viewExclusion_Clause.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.viewLetters.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.viewRenewal_Notice.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.View_Agent_Details.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.View_Insurer_Contacts.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.vProReportbyAgent.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.vShortFalls.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.vShortfallsDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.xPolicyDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.XportBlank.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.xRenewalListing.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.xWrongEffectiveDate.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.xWrongPremium.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.Yearly_PlanLetter_Proposer.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.YrFollowupDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.YrFollowupSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.vbproj.GenerateResource.Cache
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.exe.manifest
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.application
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.pRetirees.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fYrInvoice.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fYrPremiumRenewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPaymentSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fAgentRequest.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rSummaryReports.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rAgentRequestDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.CR.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rYRI.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rAgentComission.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.YRSubmissionDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.pRetireesOA.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.xPortMemberID.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frNonPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.pRetireesOA.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.CR.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.pRetirees.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rAgentComission.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fAgentRequest.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fPaymentSummary.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frNonPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fYrInvoice.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fYrPremiumRenewal.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rAgentRequestDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rSummaryReports.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.rYRI.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.xPortMemberID.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.YRSubmissionDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.fPI.resources
+D:\Medicare App Source\Medicare\Medicare\obj\Debug\Medicare.frmrNonPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPI.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmrNonPayment.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fNonPaymentnShortFall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fReUpPI.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSFnNPCall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fSFnNPR.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fFilesMove.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.vDocs.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fViewShortfall.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fViewDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fPendingDedSum.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmSummaryDetails.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmCancelSum.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmEndorSum.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmRetirees.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.frmRCancel.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.rfRetirees.rpt
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.femdb.resources
+D:\Medicare App Source\Medicare\Medicare\obj\x86\Debug\Medicare.fUpDocs.resources
+D:\APP SOURCE\Medicare\Medicare\bin\x86\Debug\Medicare.exe.config
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.exe
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.xml
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.pdb
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vbproj.ResolveComReference.cache
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.acknowledgementLetter.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.AddLabelPrint.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Angkasa60Percent.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.AngkasaCancellation.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Angkasa_Payment_Letter.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.acknowledgementLetterO.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.pRetireesOA.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.CR.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.InfoLetterN.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PD.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.InfoLetter.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.IncompleteBorang.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PI.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.pRetirees.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rAgent.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rAgentComission.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rfRetirees.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.sunderwritingLetter.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.pProposer.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.OverAged.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.RejectPSExists.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.RejectMemExists.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.RejectLetter60DuePA.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.UW.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyACLetterO.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.NP.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.defermentLetterO.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyPlanLetter_ProposerO.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.RejectDue60Per.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.No_Deduction_Frm_AngkasaPA.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Due_to_60_PercentPA.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.pDExceed60Percent1.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.pDExceed60Percent.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.No_Deduction_Frm_Angkasa.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Due_to_60_Percent.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.NPCC.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.defermentLetter.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.NPL.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rejectLetter.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.RenewalUW.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.RenewalNotice.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Retired_Letter.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Change2Yearly.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.underwritingLetterP1.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.underwritingLetterP2.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyACLetter.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.YearlyPlanLetter_Proposer.rpt
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Acknowledgement.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.AddPrintLabel.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Add_Dependant_New.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.afPolicy.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Agent.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.AgentComSum.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Agent_Commission.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.aMember.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.ccPremiumSummaryReport.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fAgentComission.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fAgentRequest.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fBorang2_79.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dgvMemberDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fbYearlyRenewal.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fClientID.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fClientRequest.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fClientRequestSubmission.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.femdb.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fEndorsSubmission.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fFilesMove.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.ffShortFall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fInDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fInsurarPremiumPayment.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fMemberIDUP.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fNonPaymentnShortFall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fPaymentSummary.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fPendingCancellationListing.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fPendingDedSum.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fPI.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fPolicyPremiumIncrease.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fRetirees.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fReUpPI.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fRevisePremium.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmCancelSum.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmEndorSum.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmNonPayment.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmPendingPremium.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmPendingPremiumTM.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmRCancel.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmRetirees.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmRMnthlyLapseDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmrNonPayment.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmShortFallfollowup.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmShortfallRequest.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmSummaryDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frNonPayment.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fSentSMS.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fSF.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fSFnNPCall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fSFnNPR.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fShortFall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.ftShortfall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fUpDocs.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fViewDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fViewShortfall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fXcessPayment.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fYearlyPoliciesDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fYrInvoice.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fYrPremiumRenewal.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_PolicyNo_Template_Import.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.gstReport.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Loading.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fCS_New.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fNonPayment.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fPremiumProcess.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Member.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.NonPaymentPlanCodes.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.OtherPlanDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fSMS.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumIncrease.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumSummaryReport.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumSummaryReportDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.r13M.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rAgentRequestDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rCancelledPolicy.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.RecoverShortFall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rPending.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rPremiumD.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Dependant.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_Cancellation.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_DependantDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_FileNo.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_L2_Plan_Code.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgBorang2_79.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgConversion_Proposer_Status.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PersonalDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PolicyNo.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_PostalAddress.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_Reinstate.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgEndosement_RequestedAmount.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgPremium_Renewal.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgUser_Change_Password.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Endorsement_Report.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Exclusion_Clause.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.findProduct_Code.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fPolicy.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fPremiumIncrease.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fReports.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fsMail.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fSummary.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fSummaryDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fUploadCID.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fUserAccess.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fvCS.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fvDependents.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.fVerifiedProposers.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_Address_Template_Export.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_Address_Template_Import.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdBLANK_PolicyNo_Template_Export.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdLog_Daily_Activities.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdLog_Login_Logoff.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmMember_v2.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdBorang2_79.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Monthly.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Insurer_PolicyPrinting_Yearly_Renewal.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Premium_Not_ReceivedFrAgency_Monthly.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Premium_Payment2Insurer_13months.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Recovered_ShortFalls_0599.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Submission2Insurer_Yearly.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdReport_Submission2Insurer_Yearly_Renewal.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdSubmitted_Proposers.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdTemplate_Export.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.ImportBlank.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Insurer.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Insurer_Contact_Details.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.New_Dependent_Add.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.New_Proposer.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Nominee.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Plan_Type.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.pLetter.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PremiumTable.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Premium_Type.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PrintLetters.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.PrintPremium.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Product_Plan_Type.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Product_Setup.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Product_type.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Renewal_Notice.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Renewal_Yr_Submission.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rPremium.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rPSummary.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rPSummaryDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rRecoverShortFall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rRevisedPremium.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rSA.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rShortFall.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rShortfallSummary.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rShortFallSummaryDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rSummaryReports.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rYP.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rYRI.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rYrlySummary.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.rYShortfallReport.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.SearchAgent.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.searchMember.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.searchNominee.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Search_Member.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.ShartfallsAc.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Deferment.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.dlgSelectMonth.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmLogin.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmMain.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.frmSearch_Param.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdAngkasaDeduction.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdBulkUpload.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdProposer.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.grdProposer2Submit.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Resources.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Rejection.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.sSFDecision.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.SubmitToAngkasa.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.SuspentAc.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.UMD.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Underwriting.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.UPLOAD.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.UploadCID.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.UWCIMB.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vAgent.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vAgent_Commission.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vCS.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vDocs.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.viewExclusion_Clause.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.viewLetters.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.viewRenewal_Notice.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.View_Agent_Details.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.View_Insurer_Contacts.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vProReportbyAgent.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vShortFalls.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vShortfallsDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.xPolicyDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.XportBlank.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.xPortMemberID.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.xRenewalListing.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.xWrongEffectiveDate.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.xWrongPremium.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.Yearly_PlanLetter_Proposer.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.YrFollowupDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.YrFollowupSummary.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.YRSubmissionDetails.resources
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.vbproj.GenerateResource.Cache
+D:\APP SOURCE\Medicare\Medicare\bin\x86\Debug\Medicare.exe.manifest
+D:\APP SOURCE\Medicare\Medicare\bin\x86\Debug\Medicare.application
+D:\APP SOURCE\Medicare\Medicare\bin\x86\Debug\Medicare.exe
+D:\APP SOURCE\Medicare\Medicare\bin\x86\Debug\Medicare.pdb
+D:\APP SOURCE\Medicare\Medicare\bin\x86\Debug\Medicare.xml
+D:\APP SOURCE\Medicare\Medicare\bin\x86\Debug\itextsharp.xml
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.exe.manifest
+D:\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.application
+C:\Users\User\Desktop\SourceCode\New Source Code for Emi\APP SOURCE\Medicare\Medicare\bin\x86\Debug\Medicare.exe.config
+C:\Users\User\Desktop\SourceCode\New Source Code for Emi\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.exe
+C:\Users\User\Desktop\SourceCode\New Source Code for Emi\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.xml
+C:\Users\User\Desktop\SourceCode\New Source Code for Emi\APP SOURCE\Medicare\Medicare\obj\x86\Debug\Medicare.pdb

@@ -1,0 +1,98 @@
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\bin\Debug\SendMail.exe
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\bin\Debug\SendMail.pdb
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\bin\Debug\SendMail.xml
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\obj\Debug\ResolveAssemblyReference.cache
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\obj\Debug\SendMail.Resources.resources
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\obj\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\obj\Debug\SendMail.exe
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\obj\Debug\SendMail.xml
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\obj\Debug\SendMail.pdb
+D:\Mydoc\Visual Studio 2005\Projects\SendMail\SendMail\obj\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\Debug\SendMail.exe
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\Debug\SendMail.xml
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\Debug\SendMail.pdb
+D:\SRI\SRI\SOURCE\SendMail\SendMail\bin\x86\Debug\SendMail.exe
+D:\SRI\SRI\SOURCE\SendMail\SendMail\bin\x86\Debug\SendMail.pdb
+D:\SRI\SRI\SOURCE\SendMail\SendMail\bin\x86\Debug\SendMail.xml
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\x86\Debug\SendMail.Resources.resources
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\x86\Debug\SendMail.xml
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
+D:\SRI\SRI\SOURCE\SendMail\SendMail\bin\Debug\SendMail.exe
+D:\SRI\SRI\SOURCE\SendMail\SendMail\bin\Debug\SendMail.pdb
+D:\SRI\SRI\SOURCE\SendMail\SendMail\bin\Debug\SendMail.xml
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\Debug\ResolveAssemblyReference.cache
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\Debug\SendMail.Resources.resources
+D:\SRI\SRI\SOURCE\SendMail\SendMail\obj\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.exe
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.xml
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.pdb
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\bin\Debug\SendMail.exe
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\bin\Debug\SendMail.pdb
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\bin\Debug\SendMail.xml
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\Debug\ResolveAssemblyReference.cache
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.Resources.resources
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.xml
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\bin\x86\Debug\SendMail.exe
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\bin\x86\Debug\SendMail.pdb
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\bin\x86\Debug\SendMail.xml
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.Resources.resources
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.xml
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\bin\x86\Debug\SendMail.exe.config
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\bin\x86\Debug\SendMail.exe
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\bin\x86\Debug\SendMail.pdb
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\bin\x86\Debug\SendMail.xml
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.Resources.resources
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\bin\Debug\SendMail.exe.config
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.exe
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.xml
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.pdb
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\bin\Debug\SendMail.exe
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\bin\Debug\SendMail.pdb
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\bin\Debug\SendMail.xml
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.Resources.resources
+D:\GITHUB\Source\Medicare Send Mail\SendMail\SendMail\obj\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.exe.config
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.xml
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.Resources.resources
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.exe
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.pdb
+D:\GITHUB\Source\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.xml
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.exe.config
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.xml
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.exe
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.pdb
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.xml
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.ResolveComReference.cache
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.Resources.resources
+D:\Medicare App Source\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.vbproj.GenerateResource.Cache
+D:\APP SOURCE\Medicare Send Mail Monthly\SendMail\SendMail\bin\x86\Debug\SendMail.exe.config
+D:\APP SOURCE\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+D:\APP SOURCE\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.xml
+D:\APP SOURCE\Medicare Send Mail Monthly\SendMail\SendMail\obj\x86\Debug\SendMail.pdb

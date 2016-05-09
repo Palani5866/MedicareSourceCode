@@ -1,0 +1,2720 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CCB4A566-AF53-45D9-BC0F-EA2A1A6B49AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Medicare.My.MyApplication</StartupObject>
+    <RootNamespace>Medicare</RootNamespace>
+    <AssemblyName>Medicare</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <ManifestCertificateThumbprint>2D0A388AFAF581D753770CD6954FDD37755B1DDA</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Medicare_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>http://localhost/Medicare/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Medicare.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Medicare.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Medicare.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleAssemblies>C:\Program Files\Microsoft Visual Studio 8\Team Tools\Static Analysis Tools\FxCop\\rules</CodeAnalysisRuleAssemblies>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Medicare.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleAssemblies>C:\Program Files\Microsoft Visual Studio 8\Team Tools\Static Analysis Tools\FxCop\\rules</CodeAnalysisRuleAssemblies>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="itextsharp, Version=5.5.6.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\SRI\Downloads\itextsharp-all-5.5.6\itextsharp-dll-core\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="CrystalDecisions" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.Common" />
+    <Import Include="System.Data.SqlClient" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acknowledgement.designer.vb">
+      <DependentUpon>Acknowledgement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Acknowledgement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPrintLabel.Designer.vb">
+      <DependentUpon>AddPrintLabel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddPrintLabel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Dependant_New.Designer.vb">
+      <DependentUpon>Add_Dependant_New.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Dependant_New.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="afPolicy.Designer.vb">
+      <DependentUpon>afPolicy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="afPolicy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agent.Designer.vb">
+      <DependentUpon>Agent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Agent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgentComSum.Designer.vb">
+      <DependentUpon>AgentComSum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AgentComSum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agent_Commission.Designer.vb">
+      <DependentUpon>Agent_Commission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Agent_Commission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aMember.Designer.vb">
+      <DependentUpon>aMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\acknowledgementLetter.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>acknowledgementLetter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\AddLabelPrint.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AddLabelPrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\Angkasa60Percent.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Angkasa60Percent.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\AngkasaCancellation.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AngkasaCancellation.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\Angkasa_Payment_Letter.vb">
+      <DependentUpon>Angkasa_Payment_Letter.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\acknowledgementLetterO.vb">
+      <DependentUpon>acknowledgementLetterO.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\pRetireesOA.vb">
+      <DependentUpon>pRetireesOA.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\CR.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\InfoLetterN.vb">
+      <DependentUpon>InfoLetterN.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\PD.vb">
+      <DependentUpon>PD.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\InfoLetter.vb">
+      <DependentUpon>InfoLetter.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\IncompleteBorang.vb">
+      <DependentUpon>IncompleteBorang.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\PI.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PI.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\pRetirees.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pRetirees.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\rAgent.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rAgent.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\rAgentComission.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rAgentComission.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\rfRetirees.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rfRetirees.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\sunderwritingLetter.vb">
+      <DependentUpon>sunderwritingLetter.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\pProposer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pProposer.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\OverAged.vb">
+      <SubType>Component</SubType>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OverAged.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="bin\Debug\Report\RejectPSExists.vb">
+      <DependentUpon>RejectPSExists.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\RejectMemExists.vb">
+      <DependentUpon>RejectMemExists.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\RejectLetter60DuePA.vb">
+      <DependentUpon>RejectLetter60DuePA.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\UW.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UW.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\YearlyACLetterO.vb">
+      <DependentUpon>YearlyACLetterO.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\NP.vb">
+      <DependentUpon>NP.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\defermentLetterO.vb">
+      <DependentUpon>defermentLetterO.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\YearlyPlanLetter_ProposerO.vb">
+      <DependentUpon>YearlyPlanLetter_ProposerO.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\RejectDue60Per.vb">
+      <DependentUpon>RejectDue60Per.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\No_Deduction_Frm_AngkasaPA.vb">
+      <DependentUpon>No_Deduction_Frm_AngkasaPA.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\Due_to_60_PercentPA.vb">
+      <DependentUpon>Due_to_60_PercentPA.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\pDExceed60Percent1.vb">
+      <DependentUpon>pDExceed60Percent1.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\pDExceed60Percent.vb">
+      <DependentUpon>pDExceed60Percent.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\No_Deduction_Frm_Angkasa.vb">
+      <DependentUpon>No_Deduction_Frm_Angkasa.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\Due_to_60_Percent.vb">
+      <DependentUpon>Due_to_60_Percent.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\NPCC.vb">
+      <DependentUpon>NPCC.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\defermentLetter.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>defermentLetter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\NPL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NPL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\rejectLetter.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rejectLetter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\RenewalUW.vb">
+      <DependentUpon>RenewalUW.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="bin\Debug\Report\RenewalNotice.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RenewalNotice.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\Retired_Letter.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Retired_Letter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\Change2Yearly.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Change2Yearly.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\underwritingLetterP1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>underwritingLetterP1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\underwritingLetterP2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>underwritingLetterP2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\YearlyACLetter.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>YearlyACLetter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Report\YearlyPlanLetter_Proposer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>YearlyPlanLetter_Proposer.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business.vb" />
+    <Compile Include="ccPremiumSummaryReport.Designer.vb">
+      <DependentUpon>ccPremiumSummaryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ccPremiumSummaryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clsimdb.vb" />
+    <Compile Include="DAL\DAL.vb" />
+    <Compile Include="fAgentComission.Designer.vb">
+      <DependentUpon>fAgentComission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fAgentComission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAgentRequest.Designer.vb">
+      <DependentUpon>fAgentRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fAgentRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fBorang2_79.Designer.vb">
+      <DependentUpon>fBorang2_79.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fBorang2_79.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dgvMember.designer.vb">
+      <DependentUpon>dgvMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dgvMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fbYearlyRenewal.Designer.vb">
+      <DependentUpon>fbYearlyRenewal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fbYearlyRenewal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fClientID.Designer.vb">
+      <DependentUpon>fClientID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fClientID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fClientRequest.Designer.vb">
+      <DependentUpon>fClientRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fClientRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fClientRequestSubmission.Designer.vb">
+      <DependentUpon>fClientRequestSubmission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fClientRequestSubmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="femdb.Designer.vb">
+      <DependentUpon>femdb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="femdb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fEndorsSubmission.Designer.vb">
+      <DependentUpon>fEndorsSubmission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fEndorsSubmission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fFilesMove.Designer.vb">
+      <DependentUpon>fFilesMove.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fFilesMove.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ffShortFall.Designer.vb">
+      <DependentUpon>ffShortFall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ffShortFall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fInDetails.Designer.vb">
+      <DependentUpon>fInDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fInDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fInsurarPremiumPayment.Designer.vb">
+      <DependentUpon>fInsurarPremiumPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fInsurarPremiumPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMemberIDUP.Designer.vb">
+      <DependentUpon>fMemberIDUP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fMemberIDUP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNonPaymentnShortFall.Designer.vb">
+      <DependentUpon>fNonPaymentnShortFall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fNonPaymentnShortFall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPaymentSummary.Designer.vb">
+      <DependentUpon>fPaymentSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPaymentSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPendingCancellationListing.Designer.vb">
+      <DependentUpon>fPendingCancellationListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPendingCancellationListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPendingDedSum.Designer.vb">
+      <DependentUpon>fPendingDedSum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPendingDedSum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPI.Designer.vb">
+      <DependentUpon>fPI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPolicyPremiumIncrease.Designer.vb">
+      <DependentUpon>fPolicyPremiumIncrease.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPolicyPremiumIncrease.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRetirees.Designer.vb">
+      <DependentUpon>fRetirees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fRetirees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fReUpPI.Designer.vb">
+      <DependentUpon>fReUpPI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fReUpPI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRevisePremium.Designer.vb">
+      <DependentUpon>fRevisePremium.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fRevisePremium.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCancelSum.Designer.vb">
+      <DependentUpon>frmCancelSum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCancelSum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEndorSum.Designer.vb">
+      <DependentUpon>frmEndorSum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEndorSum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNonPayment.Designer.vb">
+      <DependentUpon>frmNonPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNonPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPendingPremium.Designer.vb">
+      <DependentUpon>frmPendingPremium.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPendingPremium.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPendingPremiumTM.Designer.vb">
+      <DependentUpon>frmPendingPremiumTM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPendingPremiumTM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRCancel.Designer.vb">
+      <DependentUpon>frmRCancel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRCancel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRetirees.Designer.vb">
+      <DependentUpon>frmRetirees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRetirees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRMnthlyLapseDetails.Designer.vb">
+      <DependentUpon>frmRMnthlyLapseDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRMnthlyLapseDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrNonPayment.Designer.vb">
+      <DependentUpon>frmrNonPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmrNonPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShortFallfollowup.Designer.vb">
+      <DependentUpon>frmShortFallfollowup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmShortFallfollowup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShortfallRequest.Designer.vb">
+      <DependentUpon>frmShortfallRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmShortfallRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSummaryDetails.Designer.vb">
+      <DependentUpon>frmSummaryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSummaryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frNonPayment.Designer.vb">
+      <DependentUpon>frNonPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frNonPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSentSMS.Designer.vb">
+      <DependentUpon>fSentSMS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSentSMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSF.Designer.vb">
+      <DependentUpon>fSF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSFnNPCall.Designer.vb">
+      <DependentUpon>fSFnNPCall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSFnNPCall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSFnNPR.Designer.vb">
+      <DependentUpon>fSFnNPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSFnNPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fShortFall.Designer.vb">
+      <DependentUpon>fShortFall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fShortFall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ftShortfall.Designer.vb">
+      <DependentUpon>ftShortfall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ftShortfall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUpDocs.Designer.vb">
+      <DependentUpon>fUpDocs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fUpDocs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fViewDetails.Designer.vb">
+      <DependentUpon>fViewDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fViewDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fViewShortfall.Designer.vb">
+      <DependentUpon>fViewShortfall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fViewShortfall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fXcessPayment.Designer.vb">
+      <DependentUpon>fXcessPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fXcessPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fYearlyPoliciesDetails.Designer.vb">
+      <DependentUpon>fYearlyPoliciesDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fYearlyPoliciesDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fYrInvoice.Designer.vb">
+      <DependentUpon>fYrInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fYrInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fYrPremiumRenewal.Designer.vb">
+      <DependentUpon>fYrPremiumRenewal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fYrPremiumRenewal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdBLANK_PolicyNo_Template_Import.designer.vb">
+      <DependentUpon>grdBLANK_PolicyNo_Template_Import.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdBLANK_PolicyNo_Template_Import.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gstReport.Designer.vb">
+      <DependentUpon>gstReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gstReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCS_New.Designer.vb">
+      <DependentUpon>fCS_New.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fCS_New.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNonPayment.Designer.vb">
+      <DependentUpon>fNonPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fNonPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPremiumProcess.Designer.vb">
+      <DependentUpon>fPremiumProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPremiumProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Member.designer.vb">
+      <DependentUpon>Member.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Member.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NonPaymentPlanCodes.Designer.vb">
+      <DependentUpon>NonPaymentPlanCodes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NonPaymentPlanCodes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherPlanDetails.Designer.vb">
+      <DependentUpon>OtherPlanDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OtherPlanDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSMS.Designer.vb">
+      <DependentUpon>fSMS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PremiumIncrease.Designer.vb">
+      <DependentUpon>PremiumIncrease.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PremiumIncrease.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PremiumSummaryReport.Designer.vb">
+      <DependentUpon>PremiumSummaryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PremiumSummaryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PremiumSummaryReportDetails.Designer.vb">
+      <DependentUpon>PremiumSummaryReportDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PremiumSummaryReportDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r13M.Designer.vb">
+      <DependentUpon>r13M.vb</DependentUpon>
+    </Compile>
+    <Compile Include="r13M.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rAgentRequestDetails.Designer.vb">
+      <DependentUpon>rAgentRequestDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rAgentRequestDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rCancelledPolicy.Designer.vb">
+      <DependentUpon>rCancelledPolicy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rCancelledPolicy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecoverShortFall.Designer.vb">
+      <DependentUpon>RecoverShortFall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RecoverShortFall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rPending.Designer.vb">
+      <DependentUpon>rPending.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rPending.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rPremiumD.Designer.vb">
+      <DependentUpon>rPremiumD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rPremiumD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dependant.Designer.vb">
+      <DependentUpon>Dependant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dependant.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_Cancellation.Designer.vb">
+      <DependentUpon>dlgEndosement_Cancellation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_Cancellation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_DependantDetails.Designer.vb">
+      <DependentUpon>dlgEndosement_DependantDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_DependantDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_FileNo.Designer.vb">
+      <DependentUpon>dlgEndosement_FileNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_FileNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_L2_Plan_Code.Designer.vb">
+      <DependentUpon>dlgEndosement_L2_Plan_Code.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_L2_Plan_Code.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgBorang2_79.Designer.vb">
+      <DependentUpon>dlgBorang2_79.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgBorang2_79.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgConversion_Proposer_Status.Designer.vb">
+      <DependentUpon>dlgConversion_Proposer_Status.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgConversion_Proposer_Status.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_PersonalDetails.Designer.vb">
+      <DependentUpon>dlgEndosement_PersonalDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_PersonalDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_PolicyNo.Designer.vb">
+      <DependentUpon>dlgEndosement_PolicyNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_PolicyNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_PostalAddress.Designer.vb">
+      <DependentUpon>dlgEndosement_PostalAddress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_PostalAddress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_Reinstate.Designer.vb">
+      <DependentUpon>dlgEndosement_Reinstate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_Reinstate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgEndosement_RequestedAmount.Designer.vb">
+      <DependentUpon>dlgEndosement_RequestedAmount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgEndosement_RequestedAmount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgPremium_Renewal.Designer.vb">
+      <DependentUpon>dlgPremium_Renewal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgPremium_Renewal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgUser_Change_Password.Designer.vb">
+      <DependentUpon>dlgUser_Change_Password.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgUser_Change_Password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dsLetters.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsLetters.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsLetters.vb">
+      <DependentUpon>dsLetters.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsRenewalNotice.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRenewalNotice.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Endorsement_Report.Designer.vb">
+      <DependentUpon>Endorsement_Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Endorsement_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exclusion_Clause.Designer.vb">
+      <DependentUpon>Exclusion_Clause.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Exclusion_Clause.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="findProduct_Code.Designer.vb">
+      <DependentUpon>findProduct_Code.vb</DependentUpon>
+    </Compile>
+    <Compile Include="findProduct_Code.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPolicy.Designer.vb">
+      <DependentUpon>fPolicy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPolicy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPremiumIncrease.Designer.vb">
+      <DependentUpon>fPremiumIncrease.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPremiumIncrease.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fReports.Designer.vb">
+      <DependentUpon>fReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fsMail.Designer.vb">
+      <DependentUpon>fsMail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fsMail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSummary.Designer.vb">
+      <DependentUpon>fSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSummaryDetails.Designer.vb">
+      <DependentUpon>fSummaryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fSummaryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUploadCID.Designer.vb">
+      <DependentUpon>fUploadCID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fUploadCID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fUserAccess.Designer.vb">
+      <DependentUpon>fUserAccess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fUserAccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fvCS.Designer.vb">
+      <DependentUpon>fvCS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fvCS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fvDependents.Designer.vb">
+      <DependentUpon>fvDependents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fvDependents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fVerifiedProposers.Designer.vb">
+      <DependentUpon>fVerifiedProposers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fVerifiedProposers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdBLANK_Address_Template_Export.Designer.vb">
+      <DependentUpon>grdBLANK_Address_Template_Export.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdBLANK_Address_Template_Export.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdBLANK_Address_Template_Import.Designer.vb">
+      <DependentUpon>grdBLANK_Address_Template_Import.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdBLANK_Address_Template_Import.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdBLANK_PolicyNo_Template_Export.Designer.vb">
+      <DependentUpon>grdBLANK_PolicyNo_Template_Export.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdBLANK_PolicyNo_Template_Export.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdLog_Daily_Activities.Designer.vb">
+      <DependentUpon>grdLog_Daily_Activities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdLog_Daily_Activities.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdLog_Login_Logoff.Designer.vb">
+      <DependentUpon>grdLog_Login_Logoff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdLog_Login_Logoff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMember_v2.Designer.vb">
+      <DependentUpon>frmMember_v2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMember_v2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdBorang2_79.Designer.vb">
+      <DependentUpon>grdBorang2_79.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdBorang2_79.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdReport_Insurer_PolicyPrinting_Monthly.Designer.vb">
+      <DependentUpon>grdReport_Insurer_PolicyPrinting_Monthly.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdReport_Insurer_PolicyPrinting_Monthly.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdReport_Insurer_PolicyPrinting_Yearly.Designer.vb">
+      <DependentUpon>grdReport_Insurer_PolicyPrinting_Yearly.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdReport_Insurer_PolicyPrinting_Yearly.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdReport_Insurer_PolicyPrinting_Yearly_Renewal.Designer.vb">
+      <DependentUpon>grdReport_Insurer_PolicyPrinting_Yearly_Renewal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdReport_Insurer_PolicyPrinting_Yearly_Renewal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdReport_Premium_Not_ReceivedFrAgency_Monthly.Designer.vb">
+      <DependentUpon>grdReport_Premium_Not_ReceivedFrAgency_Monthly.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdReport_Premium_Not_ReceivedFrAgency_Monthly.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdReport_Recovered_ShortFalls_0599.Designer.vb">
+      <DependentUpon>grdReport_Recovered_ShortFalls_0599.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdReport_Recovered_ShortFalls_0599.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdReport_Submission2Insurer_Yearly_Renewal.Designer.vb">
+      <DependentUpon>grdReport_Submission2Insurer_Yearly_Renewal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdReport_Submission2Insurer_Yearly_Renewal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdReport_Premium_Payment2Insurer_13months.Designer.vb">
+      <DependentUpon>grdReport_Premium_Payment2Insurer_13months.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdReport_Premium_Payment2Insurer_13months.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdReport_Submission2Insurer_Yearly.Designer.vb">
+      <DependentUpon>grdReport_Submission2Insurer_Yearly.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdReport_Submission2Insurer_Yearly.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdSubmitted_Proposers.Designer.vb">
+      <DependentUpon>grdSubmitted_Proposers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdSubmitted_Proposers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdTemplate_Export.Designer.vb">
+      <DependentUpon>grdTemplate_Export.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdTemplate_Export.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportBlank.Designer.vb">
+      <DependentUpon>ImportBlank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImportBlank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insurer.designer.vb">
+      <DependentUpon>Insurer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Insurer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insurer_Contact_Details.Designer.vb">
+      <DependentUpon>Insurer_Contact_Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Insurer_Contact_Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Dependent_Add.Designer.vb">
+      <DependentUpon>New_Dependent_Add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="New_Dependent_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Proposer.Designer.vb">
+      <DependentUpon>New_Proposer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="New_Proposer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nominee.Designer.vb">
+      <DependentUpon>Nominee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nominee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plan_Type.Designer.vb">
+      <DependentUpon>Plan_Type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plan_Type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pLetter.Designer.vb">
+      <DependentUpon>pLetter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pLetter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PremiumDetails.Designer.vb">
+      <DependentUpon>PremiumDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PremiumDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PremiumTable.Designer.vb">
+      <DependentUpon>PremiumTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PremiumTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Premium_Type.Designer.vb">
+      <DependentUpon>Premium_Type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Premium_Type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintLetters.Designer.vb">
+      <DependentUpon>PrintLetters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintLetters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintPremium.Designer.vb">
+      <DependentUpon>PrintPremium.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintPremium.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_Plan_Type.Designer.vb">
+      <DependentUpon>Product_Plan_Type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product_Plan_Type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_Setup.Designer.vb">
+      <DependentUpon>Product_Setup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product_Setup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_type.Designer.vb">
+      <DependentUpon>Product_type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product_type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Renewal_Notice.Designer.vb">
+      <DependentUpon>Renewal_Notice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Renewal_Notice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Renewal_Yr_Submission.Designer.vb">
+      <DependentUpon>Renewal_Yr_Submission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Renewal_Yr_Submission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rPremium.Designer.vb">
+      <DependentUpon>rPremium.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rPremium.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rPSummary.Designer.vb">
+      <DependentUpon>rPSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rPSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rPSummaryDetails.Designer.vb">
+      <DependentUpon>rPSummaryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rPSummaryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rRecoverShortFall.Designer.vb">
+      <DependentUpon>rRecoverShortFall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rRecoverShortFall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rRevisedPremium.Designer.vb">
+      <DependentUpon>rRevisedPremium.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rRevisedPremium.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rSA.Designer.vb">
+      <DependentUpon>rSA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rSA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rShortFall.Designer.vb">
+      <DependentUpon>rShortFall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rShortFall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rShortfallSummary.Designer.vb">
+      <DependentUpon>rShortfallSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rShortfallSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rShortFallSummaryDetails.Designer.vb">
+      <DependentUpon>rShortFallSummaryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rShortFallSummaryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rSummaryReports.Designer.vb">
+      <DependentUpon>rSummaryReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rSummaryReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rYP.Designer.vb">
+      <DependentUpon>rYP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rYP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rYRI.Designer.vb">
+      <DependentUpon>rYRI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rYRI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rYrlySummary.Designer.vb">
+      <DependentUpon>rYrlySummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rYrlySummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rYShortfallReport.Designer.vb">
+      <DependentUpon>rYShortfallReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rYShortfallReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchAgent.Designer.vb">
+      <DependentUpon>SearchAgent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchAgent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchMember.Designer.vb">
+      <DependentUpon>searchMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="searchMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchNominee.Designer.vb">
+      <DependentUpon>searchNominee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="searchNominee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Member.designer.vb">
+      <DependentUpon>Search_Member.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Member.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShartfallsAc.Designer.vb">
+      <DependentUpon>ShartfallsAc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShartfallsAc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deferment.designer.vb">
+      <DependentUpon>Deferment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Deferment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgSelectMonth.Designer.vb">
+      <DependentUpon>dlgSelectMonth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dlgSelectMonth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearch_Param.Designer.vb">
+      <DependentUpon>frmSearch_Param.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearch_Param.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdAngkasaDeduction.Designer.vb">
+      <DependentUpon>grdAngkasaDeduction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdAngkasaDeduction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdBulkUpload.Designer.vb">
+      <DependentUpon>grdBulkUpload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdBulkUpload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdProposer.Designer.vb">
+      <DependentUpon>grdProposer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdProposer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grdProposer2Submit.Designer.vb">
+      <DependentUpon>grdProposer2Submit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="grdProposer2Submit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Rejection.designer.vb">
+      <DependentUpon>Rejection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rejection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sSFDecision.Designer.vb">
+      <DependentUpon>sSFDecision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sSFDecision.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubmitToAngkasa.designer.vb">
+      <DependentUpon>SubmitToAngkasa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SubmitToAngkasa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuspentAc.Designer.vb">
+      <DependentUpon>SuspentAc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuspentAc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UMD.Designer.vb">
+      <DependentUpon>UMD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UMD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Underwriting.designer.vb">
+      <DependentUpon>Underwriting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Underwriting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UPLOAD.Designer.vb">
+      <DependentUpon>UPLOAD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UPLOAD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadCID.Designer.vb">
+      <DependentUpon>UploadCID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UploadCID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UWCIMB.Designer.vb">
+      <DependentUpon>UWCIMB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UWCIMB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vAgent.Designer.vb">
+      <DependentUpon>vAgent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vAgent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vAgent_Commission.Designer.vb">
+      <DependentUpon>vAgent_Commission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vAgent_Commission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vCS.Designer.vb">
+      <DependentUpon>vCS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vCS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vDocs.Designer.vb">
+      <DependentUpon>vDocs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vDocs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewExclusion_Clause.Designer.vb">
+      <DependentUpon>viewExclusion_Clause.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewExclusion_Clause.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewLetters.Designer.vb">
+      <DependentUpon>viewLetters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewLetters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewRenewal_Notice.Designer.vb">
+      <DependentUpon>viewRenewal_Notice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewRenewal_Notice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Agent_Details.Designer.vb">
+      <DependentUpon>View_Agent_Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View_Agent_Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Insurer_Contacts.Designer.vb">
+      <DependentUpon>View_Insurer_Contacts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View_Insurer_Contacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vProReportbyAgent.Designer.vb">
+      <DependentUpon>vProReportbyAgent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vProReportbyAgent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vShortFalls.Designer.vb">
+      <DependentUpon>vShortFalls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vShortFalls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vShortfallsDetails.Designer.vb">
+      <DependentUpon>vShortfallsDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vShortfallsDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xPolicyDetails.Designer.vb">
+      <DependentUpon>xPolicyDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xPolicyDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XportBlank.Designer.vb">
+      <DependentUpon>XportBlank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XportBlank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xPortMemberID.Designer.vb">
+      <DependentUpon>xPortMemberID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xPortMemberID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xRenewalListing.Designer.vb">
+      <DependentUpon>xRenewalListing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xRenewalListing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xWrongEffectiveDate.Designer.vb">
+      <DependentUpon>xWrongEffectiveDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xWrongEffectiveDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xWrongPremium.Designer.vb">
+      <DependentUpon>xWrongPremium.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xWrongPremium.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yearly_PlanLetter_Proposer.Designer.vb">
+      <DependentUpon>Yearly_PlanLetter_Proposer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Yearly_PlanLetter_Proposer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YrFollowupDetails.Designer.vb">
+      <DependentUpon>YrFollowupDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YrFollowupDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YrFollowupSummary.Designer.vb">
+      <DependentUpon>YrFollowupSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YrFollowupSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YRSubmissionDetails.Designer.vb">
+      <DependentUpon>YRSubmissionDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YRSubmissionDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Acknowledgement.resx">
+      <DependentUpon>Acknowledgement.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPrintLabel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddPrintLabel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Dependant_New.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Add_Dependant_New.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="afPolicy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>afPolicy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agent.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Agent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgentComSum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgentComSum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agent_Commission.resx">
+      <DependentUpon>Agent_Commission.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aMember.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>aMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\acknowledgementLetter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>acknowledgementLetter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\AddLabelPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AddLabelPrint.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\Angkasa60Percent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Angkasa60Percent.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\AngkasaCancellation.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AngkasaCancellation.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\Angkasa_Payment_Letter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Angkasa_Payment_Letter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\acknowledgementLetterO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>acknowledgementLetterO.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\pRetireesOA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>pRetireesOA.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\CR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\InfoLetterN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InfoLetterN.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\PD.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PD.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\InfoLetter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InfoLetter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\IncompleteBorang.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IncompleteBorang.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\PI.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PI.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\pRetirees.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>pRetirees.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\rAgent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rAgent.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\rAgentComission.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rAgentComission.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\rfRetirees.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rfRetirees.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\sunderwritingLetter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sunderwritingLetter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\pProposer.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>pProposer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\OverAged.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OverAged.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\RejectPSExists.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RejectPSExists.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\RejectMemExists.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RejectMemExists.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\RejectLetter60DuePA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RejectLetter60DuePA.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\UW.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>UW.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\YearlyACLetterO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>YearlyACLetterO.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\NP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\defermentLetterO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>defermentLetterO.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\YearlyPlanLetter_ProposerO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>YearlyPlanLetter_ProposerO.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\RejectDue60Per.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RejectDue60Per.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\No_Deduction_Frm_AngkasaPA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>No_Deduction_Frm_AngkasaPA.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\Due_to_60_PercentPA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Due_to_60_PercentPA.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\pDExceed60Percent1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>pDExceed60Percent1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\pDExceed60Percent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>pDExceed60Percent.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\No_Deduction_Frm_Angkasa.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>No_Deduction_Frm_Angkasa.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\Due_to_60_Percent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Due_to_60_Percent.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\NPCC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NPCC.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\defermentLetter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>defermentLetter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\NPL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NPL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\rejectLetter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rejectLetter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\RenewalUW.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RenewalUW.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\RenewalNotice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RenewalNotice.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\Retired_Letter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Retired_Letter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\Change2Yearly.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Change2Yearly.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\underwritingLetterP1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>underwritingLetterP1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\underwritingLetterP2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>underwritingLetterP2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\YearlyACLetter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>YearlyACLetter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Report\YearlyPlanLetter_Proposer.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>YearlyPlanLetter_Proposer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ccPremiumSummaryReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ccPremiumSummaryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAgentComission.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fAgentComission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAgentRequest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fAgentRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fBorang2_79.resx">
+      <DependentUpon>fBorang2_79.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dgvMember.resx">
+      <DependentUpon>dgvMember.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fbYearlyRenewal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fbYearlyRenewal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fClientID.resx">
+      <DependentUpon>fClientID.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fClientRequest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fClientRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fClientRequestSubmission.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fClientRequestSubmission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="femdb.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>femdb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fEndorsSubmission.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fEndorsSubmission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fFilesMove.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fFilesMove.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ffShortFall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ffShortFall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fInDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fInDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fInsurarPremiumPayment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fInsurarPremiumPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMemberIDUP.resx">
+      <DependentUpon>fMemberIDUP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNonPaymentnShortFall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fNonPaymentnShortFall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPaymentSummary.resx">
+      <DependentUpon>fPaymentSummary.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPendingCancellationListing.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fPendingCancellationListing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPendingDedSum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fPendingDedSum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fPI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPolicyPremiumIncrease.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fPolicyPremiumIncrease.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRetirees.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fRetirees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fReUpPI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fReUpPI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRevisePremium.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fRevisePremium.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCancelSum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCancelSum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEndorSum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEndorSum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNonPayment.resx">
+      <DependentUpon>frmNonPayment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPendingPremium.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPendingPremium.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPendingPremiumTM.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPendingPremiumTM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRCancel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRCancel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRetirees.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRetirees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRMnthlyLapseDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmRMnthlyLapseDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrNonPayment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmrNonPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShortFallfollowup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmShortFallfollowup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShortfallRequest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmShortfallRequest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSummaryDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSummaryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frNonPayment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frNonPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSentSMS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSentSMS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSF.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSFnNPCall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSFnNPCall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSFnNPR.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSFnNPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fShortFall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fShortFall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ftShortfall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ftShortfall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUpDocs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fUpDocs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fViewDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fViewDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fViewShortfall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fViewShortfall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fXcessPayment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fXcessPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fYearlyPoliciesDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fYearlyPoliciesDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fYrInvoice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fYrInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fYrPremiumRenewal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fYrPremiumRenewal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdBLANK_PolicyNo_Template_Import.resx">
+      <DependentUpon>grdBLANK_PolicyNo_Template_Import.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gstReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>gstReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCS_New.resx">
+      <DependentUpon>fCS_New.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNonPayment.resx">
+      <DependentUpon>fNonPayment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPremiumProcess.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fPremiumProcess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Member.resx">
+      <DependentUpon>Member.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NonPaymentPlanCodes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NonPaymentPlanCodes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherPlanDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OtherPlanDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSMS.resx">
+      <DependentUpon>fSMS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PremiumIncrease.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PremiumIncrease.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PremiumSummaryReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PremiumSummaryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PremiumSummaryReportDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PremiumSummaryReportDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r13M.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>r13M.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rAgentRequestDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rAgentRequestDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rCancelledPolicy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rCancelledPolicy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecoverShortFall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RecoverShortFall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rPending.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rPending.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rPremiumD.resx">
+      <DependentUpon>rPremiumD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dependant.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Dependant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_Cancellation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgEndosement_Cancellation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_DependantDetails.resx">
+      <DependentUpon>dlgEndosement_DependantDetails.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_FileNo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgEndosement_FileNo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_L2_Plan_Code.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgEndosement_L2_Plan_Code.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgBorang2_79.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgBorang2_79.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgConversion_Proposer_Status.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgConversion_Proposer_Status.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_PersonalDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgEndosement_PersonalDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_PolicyNo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgEndosement_PolicyNo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_PostalAddress.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgEndosement_PostalAddress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_Reinstate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgEndosement_Reinstate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgEndosement_RequestedAmount.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgEndosement_RequestedAmount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgPremium_Renewal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgPremium_Renewal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgUser_Change_Password.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgUser_Change_Password.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Endorsement_Report.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Endorsement_Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exclusion_Clause.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Exclusion_Clause.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="findProduct_Code.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>findProduct_Code.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPolicy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fPolicy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPremiumIncrease.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fPremiumIncrease.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fReports.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fsMail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fsMail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSummaryDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSummaryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUploadCID.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fUploadCID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fUserAccess.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fUserAccess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fvCS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fvCS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fvDependents.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fvDependents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fVerifiedProposers.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fVerifiedProposers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdBLANK_Address_Template_Export.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdBLANK_Address_Template_Export.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdBLANK_Address_Template_Import.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdBLANK_Address_Template_Import.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdBLANK_PolicyNo_Template_Export.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdBLANK_PolicyNo_Template_Export.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdLog_Daily_Activities.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdLog_Daily_Activities.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdLog_Login_Logoff.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdLog_Login_Logoff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMember_v2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMember_v2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdBorang2_79.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdBorang2_79.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdReport_Insurer_PolicyPrinting_Monthly.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdReport_Insurer_PolicyPrinting_Monthly.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdReport_Insurer_PolicyPrinting_Yearly.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdReport_Insurer_PolicyPrinting_Yearly.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdReport_Insurer_PolicyPrinting_Yearly_Renewal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdReport_Insurer_PolicyPrinting_Yearly_Renewal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdReport_Premium_Not_ReceivedFrAgency_Monthly.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdReport_Premium_Not_ReceivedFrAgency_Monthly.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdReport_Premium_Payment2Insurer_13months.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdReport_Premium_Payment2Insurer_13months.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdReport_Recovered_ShortFalls_0599.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdReport_Recovered_ShortFalls_0599.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdReport_Submission2Insurer_Yearly.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdReport_Submission2Insurer_Yearly.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdReport_Submission2Insurer_Yearly_Renewal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdReport_Submission2Insurer_Yearly_Renewal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdSubmitted_Proposers.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdSubmitted_Proposers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdTemplate_Export.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdTemplate_Export.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportBlank.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ImportBlank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insurer.resx">
+      <DependentUpon>Insurer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insurer_Contact_Details.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Insurer_Contact_Details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Dependent_Add.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>New_Dependent_Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Proposer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>New_Proposer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nominee.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Nominee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plan_Type.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Plan_Type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pLetter.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>pLetter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PremiumDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PremiumDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PremiumTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PremiumTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Premium_Type.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Premium_Type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintLetters.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PrintLetters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintPremium.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PrintPremium.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_Plan_Type.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Product_Plan_Type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_Setup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Product_Setup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_type.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Product_type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Renewal_Notice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Renewal_Notice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Renewal_Yr_Submission.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Renewal_Yr_Submission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rPremium.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rPremium.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rPSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rPSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rPSummaryDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rPSummaryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rRecoverShortFall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rRecoverShortFall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rRevisedPremium.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rRevisedPremium.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rSA.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rSA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rShortFall.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rShortFall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rShortfallSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rShortfallSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rShortFallSummaryDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rShortFallSummaryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rSummaryReports.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rSummaryReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rYP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rYP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rYRI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rYRI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rYrlySummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rYrlySummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rYShortfallReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>rYShortfallReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchAgent.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchAgent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchMember.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>searchMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchNominee.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>searchNominee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Member.resx">
+      <DependentUpon>Search_Member.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShartfallsAc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShartfallsAc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deferment.resx">
+      <DependentUpon>Deferment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgSelectMonth.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgSelectMonth.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearch_Param.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSearch_Param.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdAngkasaDeduction.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdAngkasaDeduction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdBulkUpload.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdBulkUpload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdProposer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdProposer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grdProposer2Submit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>grdProposer2Submit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rejection.resx">
+      <DependentUpon>Rejection.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sSFDecision.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>sSFDecision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubmitToAngkasa.resx">
+      <DependentUpon>SubmitToAngkasa.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuspentAc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SuspentAc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UMD.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UMD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Underwriting.resx">
+      <DependentUpon>Underwriting.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UPLOAD.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UPLOAD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadCID.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UploadCID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UWCIMB.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UWCIMB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vAgent.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vAgent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vAgent_Commission.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vAgent_Commission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vCS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vCS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vDocs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vDocs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewExclusion_Clause.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>viewExclusion_Clause.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewLetters.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>viewLetters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewRenewal_Notice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>viewRenewal_Notice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Agent_Details.resx">
+      <DependentUpon>View_Agent_Details.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Insurer_Contacts.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>View_Insurer_Contacts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vProReportbyAgent.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vProReportbyAgent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vShortFalls.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vShortFalls.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vShortfallsDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vShortfallsDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xPolicyDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>xPolicyDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XportBlank.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XportBlank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xPortMemberID.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>xPortMemberID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xRenewalListing.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>xRenewalListing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xWrongEffectiveDate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>xWrongEffectiveDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xWrongPremium.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>xWrongPremium.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yearly_PlanLetter_Proposer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Yearly_PlanLetter_Proposer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YrFollowupDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>YrFollowupDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YrFollowupSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>YrFollowupSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YRSubmissionDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>YRSubmissionDetails.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="dsLetters.xsc">
+      <DependentUpon>dsLetters.xsd</DependentUpon>
+    </None>
+    <None Include="dsLetters.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsLetters.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="dsLetters.xss">
+      <DependentUpon>dsLetters.xsd</DependentUpon>
+    </None>
+    <None Include="dsRenewalNotice.xsc">
+      <DependentUpon>dsRenewalNotice.xsd</DependentUpon>
+    </None>
+    <None Include="dsRenewalNotice.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRenewalNotice.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="dsRenewalNotice.xss">
+      <DependentUpon>dsRenewalNotice.xsd</DependentUpon>
+    </None>
+    <None Include="Medicare_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\100.gif" />
+    <Content Include="Images\M1.jpg" />
+    <Content Include="Images\M2.jpg" />
+    <Content Include="Images\M3.jpg" />
+    <Content Include="Images\M4.jpg" />
+    <Content Include="Images\M5.jpg" />
+    <Content Include="Images\M6.jpg" />
+    <Content Include="Resources\M1.jpg" />
+    <Content Include="Resources\M2.jpg" />
+    <Content Include="Resources\M3.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

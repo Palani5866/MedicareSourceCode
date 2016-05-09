@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRenewalNotice" targetNamespace="http://tempuri.org/dsRenewalNotice.xsd" xmlns:mstns="http://tempuri.org/dsRenewalNotice.xsd" xmlns="http://tempuri.org/dsRenewalNotice.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRenewalNotice" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsRenewalNotice" msprop:Generator_DataSetName="dsRenewalNotice">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt_Member_Policy" msprop:Generator_UserTableName="dt_Member_Policy" msprop:Generator_RowDeletedName="dt_Member_PolicyRowDeleted" msprop:Generator_RowChangedName="dt_Member_PolicyRowChanged" msprop:Generator_RowClassName="dt_Member_PolicyRow" msprop:Generator_RowChangingName="dt_Member_PolicyRowChanging" msprop:Generator_RowEvArgName="dt_Member_PolicyRowChangeEvent" msprop:Generator_RowEvHandlerName="dt_Member_PolicyRowChangeEventHandler" msprop:Generator_TableClassName="dt_Member_PolicyDataTable" msprop:Generator_TableVarName="tabledt_Member_Policy" msprop:Generator_RowDeletingName="dt_Member_PolicyRowDeleting" msprop:Generator_TablePropName="dt_Member_Policy">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Full_Name" msprop:Generator_UserColumnName="Full_Name" msprop:Generator_ColumnPropNameInRow="Full_Name" msprop:Generator_ColumnVarNameInTable="columnFull_Name" msprop:Generator_ColumnPropNameInTable="Full_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IC_New" msprop:Generator_UserColumnName="IC_New" msprop:Generator_ColumnPropNameInRow="IC_NEW" msprop:Generator_ColumnVarNameInTable="columnIC_NEW" msprop:Generator_ColumnPropNameInTable="IC_NEWColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Add1" msprop:Generator_UserColumnName="Add1" msprop:Generator_ColumnPropNameInRow="Add1" msprop:Generator_ColumnVarNameInTable="columnAdd1" msprop:Generator_ColumnPropNameInTable="Add1Column" type="xs:string" minOccurs="0" />
+              <xs:element name="Add2" msprop:Generator_UserColumnName="Add2" msprop:Generator_ColumnPropNameInRow="Add2" msprop:Generator_ColumnVarNameInTable="columnAdd2" msprop:Generator_ColumnPropNameInTable="Add2Column" type="xs:string" minOccurs="0" />
+              <xs:element name="Town" msprop:Generator_UserColumnName="Town" msprop:Generator_ColumnPropNameInRow="Town" msprop:Generator_ColumnVarNameInTable="columnTown" msprop:Generator_ColumnPropNameInTable="TownColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="State" msprop:Generator_UserColumnName="State" msprop:Generator_ColumnPropNameInRow="State" msprop:Generator_ColumnVarNameInTable="columnState" msprop:Generator_ColumnPropNameInTable="StateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Postcode" msprop:Generator_UserColumnName="Postcode" msprop:Generator_ColumnPropNameInRow="Postcode" msprop:Generator_ColumnVarNameInTable="columnPostcode" msprop:Generator_ColumnPropNameInTable="PostcodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Policy_No" msprop:Generator_UserColumnName="Policy_No" msprop:Generator_ColumnPropNameInRow="Policy_No" msprop:Generator_ColumnVarNameInTable="columnPolicy_No" msprop:Generator_ColumnPropNameInTable="Policy_NoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Policy_Type" msprop:Generator_UserColumnName="Policy_Type" msprop:Generator_ColumnVarNameInTable="columnPolicy_Type" msprop:Generator_ColumnPropNameInRow="Policy_Type" msprop:Generator_ColumnPropNameInTable="Policy_TypeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Expiry_Date" msprop:Generator_UserColumnName="Expiry_Date" msprop:Generator_ColumnVarNameInTable="columnExpiry_Date" msprop:Generator_ColumnPropNameInRow="Expiry_Date" msprop:Generator_ColumnPropNameInTable="Expiry_DateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Deduction_Amount" msprop:Generator_UserColumnName="Deduction_Amount" msprop:Generator_ColumnPropNameInRow="Deduction_Amount" msprop:Generator_ColumnVarNameInTable="columnDeduction_Amount" msprop:Generator_ColumnPropNameInTable="Deduction_AmountColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ExlusionClause" msprop:Generator_UserColumnName="ExlusionClause" msprop:Generator_ColumnPropNameInRow="ExlusionClause" msprop:Generator_ColumnVarNameInTable="columnExlusionClause" msprop:Generator_ColumnPropNameInTable="ExlusionClauseColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Title" msprop:Generator_UserColumnName="Title" msprop:Generator_ColumnVarNameInTable="columnTitle" msprop:Generator_ColumnPropNameInRow="Title" msprop:Generator_ColumnPropNameInTable="TitleColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Add3" msprop:Generator_UserColumnName="Add3" msprop:Generator_ColumnPropNameInRow="Add3" msprop:Generator_ColumnVarNameInTable="columnAdd3" msprop:Generator_ColumnPropNameInTable="Add3Column" type="xs:string" minOccurs="0" />
+              <xs:element name="Add4" msprop:Generator_UserColumnName="Add4" msprop:Generator_ColumnPropNameInRow="Add4" msprop:Generator_ColumnVarNameInTable="columnAdd4" msprop:Generator_ColumnPropNameInTable="Add4Column" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

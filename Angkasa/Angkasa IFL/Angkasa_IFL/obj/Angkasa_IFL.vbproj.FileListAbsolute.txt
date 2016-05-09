@@ -1,0 +1,74 @@
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe.config
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.pdb
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.xml
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.Resources.resources
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.vbproj.GenerateResource.Cache
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.exe
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.xml
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.pdb
+C:\Users\jonathan.CLONEFREEMEN\Documents\Visual Studio 2005\Projects\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.IFL_Main.resources
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Release\Angkasa_IFL.exe.config
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Release\Angkasa_IFL.exe
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Release\Angkasa_IFL.xml
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Release\Angkasa_IFL.pdb
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe.config
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.pdb
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.xml
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.IFL_Main.resources
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.Resources.resources
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.vbproj.GenerateResource.Cache
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.exe
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.xml
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.pdb
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Release\Angkasa_IFL.exe
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Release\Angkasa_IFL.pdb
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Release\Angkasa_IFL.xml
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Release\Angkasa_IFL.IFL_Main.resources
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Release\Angkasa_IFL.Resources.resources
+C:\Documents and Settings\techie\Desktop\MS Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Release\Angkasa_IFL.vbproj.GenerateResource.Cache
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe.config
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.exe
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.xml
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.pdb
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.pdb
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.xml
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\ResolveAssemblyReference.cache
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.IFL_Main.resources
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.Resources.resources
+D:\SRI\SRI\SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.vbproj.GenerateResource.Cache
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe.config
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.exe
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.xml
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.pdb
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.pdb
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.xml
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\ResolveAssemblyReference.cache
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.IFL_Main.resources
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.Resources.resources
+D:\SRI\SRI\SOURCE\SENDING SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.vbproj.GenerateResource.Cache
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe.config
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.exe
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.xml
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.pdb
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.pdb
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.xml
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.IFL_Main.resources
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.Resources.resources
+D:\GITHUB\Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.vbproj.GenerateResource.Cache
+D:\Medicare App Source\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe.config
+D:\Medicare App Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.exe
+D:\Medicare App Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.xml
+D:\Medicare App Source\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.pdb
+D:\APP SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\bin\Debug\Angkasa_IFL.exe.config
+D:\APP SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.exe
+D:\APP SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.xml
+D:\APP SOURCE\Angkasa\Angkasa IFL\Angkasa_IFL\obj\Debug\Angkasa_IFL.pdb

@@ -1,0 +1,51 @@
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\bin\Release\IEMDB.exe
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\bin\Release\IEMDB.pdb
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\bin\Release\IEMDB.xml
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Release\ResolveAssemblyReference.cache
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Release\IEMDB.Resources.resources
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Release\IEMDB.vbproj.GenerateResource.Cache
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Release\IEMDB.exe
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Release\IEMDB.xml
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Release\IEMDB.pdb
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\bin\Debug\IEMDB.exe
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\bin\Debug\IEMDB.pdb
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\bin\Debug\IEMDB.xml
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Debug\ResolveAssemblyReference.cache
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Debug\IEMDB.Resources.resources
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Debug\IEMDB.vbproj.GenerateResource.Cache
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Debug\IEMDB.exe
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Debug\IEMDB.xml
+D:\Mydoc\Visual Studio 2005\Projects\IEMDB\IEMDB\obj\Debug\IEMDB.pdb
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\obj\Debug\IEMDB.exe
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\obj\Debug\IEMDB.xml
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\obj\Debug\IEMDB.pdb
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\bin\Debug\IEMDB.exe
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\bin\Debug\IEMDB.pdb
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\bin\Debug\IEMDB.xml
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\obj\Debug\ResolveAssemblyReference.cache
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\obj\Debug\IEMDB.Resources.resources
+D:\SRI\SRI\SOURCE\IEMDB\IEMDB\obj\Debug\IEMDB.vbproj.GenerateResource.Cache
+D:\GITHUB\Source\IEMDB\IEMDB\obj\Debug\IEMDB.exe
+D:\GITHUB\Source\IEMDB\IEMDB\obj\Debug\IEMDB.xml
+D:\GITHUB\Source\IEMDB\IEMDB\obj\Debug\IEMDB.pdb
+D:\GITHUB\Source\IEMDB\IEMDB\bin\Debug\IEMDB.exe.config
+D:\GITHUB\Source\IEMDB\IEMDB\bin\Debug\IEMDB.exe
+D:\GITHUB\Source\IEMDB\IEMDB\bin\Debug\IEMDB.pdb
+D:\GITHUB\Source\IEMDB\IEMDB\bin\Debug\IEMDB.xml
+D:\GITHUB\Source\IEMDB\IEMDB\obj\Debug\ResolveAssemblyReference.cache
+D:\GITHUB\Source\IEMDB\IEMDB\obj\Debug\IEMDB.Resources.resources
+D:\GITHUB\Source\IEMDB\IEMDB\obj\Debug\IEMDB.vbproj.GenerateResource.Cache
+D:\Medicare App Source\IEMDB\IEMDB\bin\Debug\IEMDB.exe.config
+D:\Medicare App Source\IEMDB\IEMDB\obj\Debug\IEMDB.exe
+D:\Medicare App Source\IEMDB\IEMDB\obj\Debug\IEMDB.xml
+D:\Medicare App Source\IEMDB\IEMDB\obj\Debug\IEMDB.pdb
+D:\Medicare App Source\IEMDB\IEMDB\bin\Debug\IEMDB.exe
+D:\Medicare App Source\IEMDB\IEMDB\bin\Debug\IEMDB.pdb
+D:\Medicare App Source\IEMDB\IEMDB\bin\Debug\IEMDB.xml
+D:\Medicare App Source\IEMDB\IEMDB\obj\Debug\ResolveAssemblyReference.cache
+D:\Medicare App Source\IEMDB\IEMDB\obj\Debug\IEMDB.Resources.resources
+D:\Medicare App Source\IEMDB\IEMDB\obj\Debug\IEMDB.vbproj.GenerateResource.Cache
+D:\APP SOURCE\IEMDB\IEMDB\bin\Debug\IEMDB.exe.config
+D:\APP SOURCE\IEMDB\IEMDB\obj\Debug\IEMDB.exe
+D:\APP SOURCE\IEMDB\IEMDB\obj\Debug\IEMDB.xml
+D:\APP SOURCE\IEMDB\IEMDB\obj\Debug\IEMDB.pdb

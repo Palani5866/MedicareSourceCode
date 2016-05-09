@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Medicare
+</name>
+</assembly>
+<members>
+<member name="T:Medicare.dsLetters.dt_Member_PolicyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_ProposerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_dependentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_nominationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_ecDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dtAgentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Medicare.dsLetters.DT_AGENTCOMISSIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_Member_PolicyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_ProposerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_dependentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_nominationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_ecRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dtAgentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Medicare.dsLetters.DT_AGENTCOMISSIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_Member_PolicyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_ProposerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_dependentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_nominationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Medicare.dsLetters.dt_proposer_ecRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Medicare.dsLetters.dtAgentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Medicare.dsLetters.DT_AGENTCOMISSIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Medicare.dsLetters">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Medicare.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Medicare.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Medicare.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Medicare.dsRenewalNotice.dt_Member_PolicyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Medicare.dsRenewalNotice.dt_Member_PolicyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Medicare.dsRenewalNotice.dt_Member_PolicyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Medicare.dsRenewalNotice">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
